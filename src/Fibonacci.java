@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Return the nth Fibonacci number
  * Example: If I give you an input of 3
  * Result: You'll return the third fibonacci number
- * @author Alaa
+ * @author Al
  *
  */
 public class Fibonacci {
