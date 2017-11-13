@@ -1,7 +1,7 @@
 /**
  * Given an integer array, The array is [0,1,0,2,0,3]
  * Return an array that is [1,2,3,0,0,0]
- * @author Alaa
+ * @author Al
  *
  */
 public class Example {
