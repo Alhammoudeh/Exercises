@@ -1,6 +1,6 @@
 /**
  * Return True if array contains three digits that add to 7 consecutively.
- * @author Alaa
+ * @author Al
  *
  */
 public class consecutive {
