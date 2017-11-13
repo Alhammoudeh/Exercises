@@ -5,7 +5,7 @@ import java.util.Scanner;
  Print out buzz if divisible by 3
  Print out fizz if divisible by 5
  Print out fizz-buzz if divisible by both 3 and 5
- * @author Alaa
+ * @author Al
  *
  */
 public class Significants {
